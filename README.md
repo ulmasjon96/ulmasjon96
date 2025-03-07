@@ -39,7 +39,7 @@
 
 ###
 
-<h2 align="left">👩‍💻 Men Haqimda</h2>
+<h2 align="left">👩‍💻 Men Haqimda:</h2>
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-<h2 align="left">🛠 Tizimlar</h2>
+<h2 align="left">🛠 Tizimlar:</h2>
 
 ###
 
@@ -81,7 +81,7 @@
 
 ###
 
-<h2 align="left">🔥   Моя статистика :</h2>
+<h2 align="left">🔥  Mening statistikam:</h2>
 
 
 ###
