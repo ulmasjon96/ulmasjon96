@@ -38,7 +38,7 @@
 
 ###
 
-<h2 align="left">👩‍💻 Men Haqimda :</h2>
+<h2 align="left">👨🏻‍💻 Men Haqimda :</h2>
 
 ###
 
