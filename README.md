@@ -15,8 +15,8 @@
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-	<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDA0OWNxem9lcXEyajFqdms3ZDlyNnpzbXU1NnJvZnJxOGRranN4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7FrOU9tPbgAZtxV5mb/giphy.gif" postion="absolute">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDA0OWNxem9lcXEyajFqdms3ZDlyNnpzbXU1NnJvZnJxOGRranN4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7FrOU9tPbgAZtxV5mb/giphy.gif">
 </p>
 
 
