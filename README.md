@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github.com/ulmasjon96/ulmasjon96/blob/main/gamer_800x600.gif"  />
+  <img width="600" height="400" src="https://github.com/ulmasjon96/ulmasjon96/blob/main/gamer_800x600.gif"  />
 </div>
 
 
