@@ -7,7 +7,7 @@
 
 ###
 
-<h1 align="center" letter-spacing="10px">Assalomu Aleykum👋 Mening ismim O'lmas !</h1>
+<h1 align="center" letter-spacing="100px">Assalomu Aleykum👋 Mening ismim O'lmas !</h1>
 
 ###
 
