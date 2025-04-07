@@ -8,7 +8,7 @@
 ###
 
 <h1 align="center">Assalomu Aleykum<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/>
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=6000&pause=3000&color=EBC891&width=765&lines=Mening ismim O'lmasbek !..." alt="Typing SVG"  size=44 /></h1>
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=6000&pause=3000&color=EBC891&width=765&lines=Mening ismim O'lmasbek !..." alt="Typing SVG"  size="44" /></h1>
 
 ###
 
