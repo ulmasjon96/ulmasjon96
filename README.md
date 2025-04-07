@@ -4,17 +4,14 @@
   <img width="600" height="400" src="https://github.com/ulmasjon96/ulmasjon96/blob/main/gamer_800x600.gif"  />
 </div>
 
-
 ###
 
-<h1 align="center">Assalomu Aleykum<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/></h1>
+<h1 align="center">Assalomu Aleykum<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=6000&pause=3000&color=EBC891&width=765&lines=Mening%20ismim%20O'lmasbek%20!..." alt="Typing SVG" height="100" />
-</div>
-
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=6000&pause=3000&color=EBC891&width=765&lines=Mening%20ismim%20O'lmasbek%20!..." alt="Typing SVG"  height="100" />
+</div></h1>
 
 ###
-
 
 <p align="center">
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
@@ -22,7 +19,6 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
 </p>
-
 
 ###
 
@@ -86,7 +82,6 @@
 ###
 
 <h2 align="left">🔥  Mening statistikam :</h2>
-
 
 ###
 
