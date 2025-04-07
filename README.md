@@ -7,7 +7,7 @@
 
 ###
 
-<h1 align="center">Assalomu Aleykum👋 Mening ismim O'lmas !</h1>
+<h1 align="center">Assalomu Aleykum<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/> Mening ismim O'lmas !</h1>
 
 ###
 
