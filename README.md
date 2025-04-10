@@ -9,7 +9,7 @@
 
 <div>
 	
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=5000&align=center&pause=3000&color=EBC891&width=900&lines=Assalomu%20Aleykum%20Mening%20ismim%20O'lmasbek%20!..." alt="Typing SVG"  />
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="50"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=5000&align=center&pause=3000&color=EBC891&width=900&lines=Assalomu%20Aleykum%20Mening%20ismim%20O'lmasbek%20!..." alt="Typing SVG"  />
 </div>
 
 ###
