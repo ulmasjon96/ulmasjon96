@@ -104,25 +104,48 @@
 
 ---
 
-<div align="center">
-<div align="center"><h2>⚡ TECH ARSENAL ⚡</h2></div>
+# ⚡ Full Stack Developer Arsenal ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
-
-</div>
-<div align="center"><h2>🎮 Backend Powerhouse</h2></div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,nodejs,python,go&theme=dark" alt="Backend Skills" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
 </div>
 
-<div align="center"><h2>🗄️ Database Mastery</h2></div>
+## 🎨 Frontend Mastery
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,elasticsearch&theme=dark" alt="Database Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,vue,angular,tailwind,bootstrap&theme=dark" alt="Frontend Skills" />
 </div>
 
-<div align="center"><h2>☁️ DevOps & Cloud Magic</h2></div>
+---
+
+## 🎮 Backend Powerhouse
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,jenkins,grafana&theme=dark" alt="DevOps Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,django,flask,go,dotnet&theme=dark" alt="Backend Skills" />
+</div>
+
+---
+
+## 🗄️ Database Mastery
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,elasticsearch&theme=dark" alt="Database Skills" />
+</div>
+
+---
+
+## ☁️ DevOps & Cloud Magic
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,heroku,jenkins,terraform,grafana&theme=dark" alt="DevOps Skills" />
+</div>
+
+---
+
+## 🛠️ Tools & Productivity
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode,postman,figma,notion&theme=dark" alt="Tools" />
 </div>
 
 ---
