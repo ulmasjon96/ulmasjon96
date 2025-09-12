@@ -221,6 +221,17 @@
 
 ---
 
+<!-- Epic Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FECA57&height=120&section=footer&text=🌟%20Thanks%20for%20Visiting!%20🌟&fontSize=24&fontColor=000000&animation=twinkling&fontAlignY=65&desc=Keep%20Coding,%20Keep%20Dreaming!&descSize=14&descAlignY=85" width="100%"/>
+</div>
+
 <p align="center"> <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white"/></a> </p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FECA57&height=100&section=footer&text=🌟%20Thanks%20for%20Visiting!%20🌟&fontSize=20&fontColor=000000&animation=twinkling&fontAlignY=65&desc=Keep%20Coding,%20Keep%20Dreaming!&descSize=12&descAlignY=85" width="100%">
+</p>
 
 </div>
