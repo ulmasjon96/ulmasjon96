@@ -56,7 +56,7 @@
 
 <!-- Typing effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&duration=2000&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=🔥+Ismatov+O'lmasjon;💻+Full+Stack+Developer;🌟+AI+%26+Cloud+Innovator;⚡+Transforming+Ideas+into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&duration=2000&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&multiline=true&width=1000&height=250&lines=🔥+Ismatov+O'lmasjon;💻+Full+Stack+Developer;🌟+AI+%26+Cloud+Innovator;⚡+Transforming+Ideas+into+Reality" alt="Typing SVG" />
 </div>
 
 ---
