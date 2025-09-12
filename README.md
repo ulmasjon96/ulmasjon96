@@ -61,7 +61,7 @@
 
 ---
 
- <div align="center"><h3>⚡ Full Stack ⚡ <br> ⚡ Developer Arsenal ⚡</h3></div>
+ <div align="center"><h2>⚡ Full Stack ⚡ <br> ⚡ Developer Arsenal ⚡</h2></div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
@@ -91,7 +91,7 @@
 
 ---
 
-## ☁️ DevOps & Cloud Magic
+# ☁️ DevOps & Cloud Magic
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,heroku,jenkins,terraform,grafana&theme=dark" />
