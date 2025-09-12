@@ -145,11 +145,11 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ulmasjon96&theme=tokyonight" width="100%">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ulmasjon96&theme=tokyonight" width="50%" height="500">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ulmasjon96&theme=tokyonight" width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ulmasjon96&theme=tokyonight" width="45%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ulmasjon96&theme=tokyonight" width="45%">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ulmasjon96&theme=tokyonight" width="50%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ulmasjon96&theme=tokyonight&utcOffset=5" width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ulmasjon96&theme=tokyonight" width="45%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ulmasjon96&theme=tokyonight&utcOffset=5" width="45%">
 </div>
 
 ---
