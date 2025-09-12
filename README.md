@@ -146,7 +146,7 @@
 ---
 
 <!-- Summary Cards -->
-<div align="center">
+<div align="center" style="max-width: 100%; height: auto;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ulmasjon96&theme=tokyonight" width="100%">
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ulmasjon96&theme=tokyonight" width="45%">
