@@ -136,7 +136,7 @@
 
 <!-- Trophy Section -->
 <div align="center" style="display: flex; justify-content: center; width: 100%;">
-  <img src="https://github-profile-trophy.vercel.app/?username=ulmasjon96&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" width="50">
+  <img src="https://github-profile-trophy.vercel.app/?username=ulmasjon96&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" width="800">
 </div>
 
 ---
