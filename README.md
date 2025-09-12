@@ -226,10 +226,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FECA57&height=120&section=footer&text=🌟%20Thanks%20for%20Visiting!%20🌟&fontSize=24&fontColor=000000&animation=twinkling&fontAlignY=65&desc=Keep%20Coding,%20Keep%20Dreaming!&descSize=14&descAlignY=85" width="100%"/>
 </div>
 
----
-
-## 📫 Contact & Connect
-
 <p align="center">
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
