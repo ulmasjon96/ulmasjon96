@@ -131,7 +131,7 @@
       </tr>
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulmasjon96&theme=tokyonight&background=0D1117&stroke=30363D&ring=FF6B6B&fire=4ECDC4&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=FF6B6B&sideLabels=4ECDC4&dates=96CEB4" width="100%" height="200">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulmasjon96&theme=tokyonight&background=0D1117&stroke=30363D&ring=4bc9f4&fire=4ECDC4&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=4bc9f4&sideLabels=4ECDC4&dates=96CEB4" width="100%" height="200">
       </td>
     </tr>
     <tr>
