@@ -227,3 +227,78 @@
 </div>
 
 </div>
+
+<!-- Intro Section -->
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <!-- Hi GIF -->
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="60" alt="Hi" style="border-radius: 50%;"/>
+
+  <!-- Typing SVG -->
+
+<img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=4000&pause=2000&color=EBC891&center=true&vCenter=true&width=500&lines=Hello%2C+My+Name+Is+O'lmasjon+!;Front-end+Developer;Open+Source+Contributor;Always+Learning+New+Things"
+    alt="Typing SVG"
+    style="border: 2px solid #EBC891; border-radius: 12px; padding: 5px; box-shadow: 0 0 15px rgba(235,200,145,0.5);"
+  />
+
+</div>
+
+---
+
+<!-- Visitor Badge -->
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ulmasjon96.ulmasjon96" alt="visitors"/>
+</div>
+
+---
+
+<!-- GitHub Trophy Section -->
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ulmasjon96&theme=tokyonight&no-frame=true&margin-w=25&margin-h=25&row=2&column=3&title=Stars,Followers,Commits,PullRequest,Issues,Repositories"
+    alt="GitHub Trophies"
+    style="max-width: 100%; height: auto;"
+  />
+</div>
+
+---
+
+<!-- GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ulmasjon96&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulmasjon96&layout=compact&theme=tokyonight" height="180"/>
+</div>
+
+---
+
+<!-- Streak Stats -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ulmasjon96&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</div>
+
+---
+
+<!-- Social Links -->
+<div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/ulmasjon96" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t.me/ulmasjon96" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="mailto:ulmasjon96@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<!-- Epic Footer -->
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FECA57&height=120&section=footer&text=🌟%20Thanks%20for%20Visiting!%20🌟&fontSize=24&fontColor=000000&animation=twinkling&fontAlignY=65&desc=Keep%20Coding,%20Keep%20Dreaming!&descSize=14&descAlignY=85"
+    width="100%"
+    alt="Epic Footer"
+  />
+</div>
