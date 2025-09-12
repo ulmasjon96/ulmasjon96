@@ -6,9 +6,19 @@
 
 ###
 
-<div align="center">
+<!-- Intro Section -->
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<img  src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="50"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=5000&align=center&pause=3000&color=EBC891&width=900&lines=Hello.%20My%20Name%20Is%20O'lmasjon%20!..." alt="Typing SVG"  />
+  <!-- Hi GIF -->
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="60" alt="Hi" style="border-radius: 50%;"/>
+
+  <!-- Typing SVG -->
+
+<img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=4000&pause=2000&color=EBC891&center=true&vCenter=true&width=500&lines=Hello%2C+My+Name+Is+O'lmasjon+!;Front-end+Developer;Open+Source+Contributor;Always+Learning+New+Things"
+    alt="Typing SVG"
+    style="border: 2px solid #EBC891; border-radius: 12px; padding: 5px; box-shadow: 0 0 15px rgba(235,200,145,0.5);"
+  />
 
 </div>
 
