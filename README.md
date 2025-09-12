@@ -104,7 +104,7 @@
 
 ---
 
-<div align="center"><h1>⚡ Full Stack Developer Arsenal ⚡</h1></div>
+# ⚡ Full Stack Developer Arsenal ⚡
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
@@ -113,7 +113,7 @@
 ## 🎨 Frontend Mastery
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,vue,angular,tailwind,bootstrap&theme=dark" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,vue,angular,tailwind,bootstrap&theme=dark" />
 </div>
 
 ---
@@ -121,7 +121,7 @@
 ## 🎮 Backend Powerhouse
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,django,flask,go,dotnet&theme=dark" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,django,flask,go,dotnet&theme=dark" />
 </div>
 
 ---
@@ -129,7 +129,7 @@
 ## 🗄️ Database Mastery
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,elasticsearch&theme=dark" alt="Database Skills" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,elasticsearch&theme=dark" />
 </div>
 
 ---
@@ -137,7 +137,7 @@
 ## ☁️ DevOps & Cloud Magic
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,heroku,jenkins,terraform,grafana&theme=dark" alt="DevOps Skills" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,heroku,jenkins,terraform,grafana&theme=dark" />
 </div>
 
 ---
@@ -145,38 +145,59 @@
 ## 🛠️ Tools & Productivity
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode,postman,figma,notion&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode,postman,figma,notion&theme=dark" />
 </div>
 
 ---
 
-<div align="center">
-
-<div align="center"><h2>📊 PERFORMANCE METRICS</h2></div>
+<div align="center"><h1>📊 PERFORMANCE METRICS</h1></div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2" width="100%"/>
 
+<!-- GitHub Stats & Streak -->
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=DoniyorKhasanov1&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=C9D1D9&border_color=30363D&include_all_commits=true&count_private=true&custom_title=🚀%20GitHub%20Stats" width="400">
+        <img src="https://github-readme-stats.vercel.app/api?username=DoniyorKhasanov1&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=C9D1D9&border_color=30363D&include_all_commits=true&count_private=true" width="400">
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirinov77&theme=tokyonight&background=0D1117&stroke=30363D&ring=FF6B6B&fire=4ECDC4&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=FF6B6B&sideLabels=4ECDC4&dates=96CEB4" width="400">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DoniyorKhasanov1&theme=tokyonight&background=0D1117&stroke=30363D&ring=FF6B6B&fire=4ECDC4&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=FF6B6B&sideLabels=4ECDC4&dates=96CEB4" width="400">
       </td>
     </tr>
     <tr>
       <td colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirinov77&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&border_color=30363D&langs_count=8&custom_title=💻%20Code%20Languages" width="100%" height="200">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoniyorKhasanov1&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&border_color=30363D&langs_count=8" width="100%" height="200">
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DoniyorKhasanov1&theme=tokyo-night&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FECA57&area=true&hide_border=true&custom_title=🔥%20Contribution%20Activity" width="100%">
+---
 
+<!-- Trophy Section -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DoniyorKhasanov1&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" width="100%">
+</div>
+
+---
+
+<!-- Summary Cards -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DoniyorKhasanov1&theme=tokyonight" width="100%">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DoniyorKhasanov1&theme=tokyonight" width="45%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DoniyorKhasanov1&theme=tokyonight" width="45%">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DoniyorKhasanov1&theme=tokyonight" width="45%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DoniyorKhasanov1&theme=tokyonight&utcOffset=5" width="45%">
+</div>
+
+---
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DoniyorKhasanov1&theme=tokyo-night&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FECA57&area=true&hide_border=true" width="100%">
 </div>
 
 ---
