@@ -44,13 +44,13 @@
 
 ###
 
-<div align="center"><h1>👨🏻‍💻 Men Haqimda</h1></div>
+<div align="center"><h1>👨🏻‍💻 About me</h1></div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2" width="100%"/>
 
 ###
 
-<p align="left">Men boshlang'ich Frontend dasturchisiman. Mening it-dagi sayohatim 2024-yilda Osiyo Xalqaro Universiteti bilan boshlandi, u yerda men intensivlikdan o'tayapman. Intensivlikdan so'ng, bir necha oylik bo'shliq bor edi, u yerda men ko'p yo'nalishlarda harakat qilyapman, HTML tilini o'rganishga harakat qildim, CSS da o'zimni sinab ko'rdim, lekin meni eng ko'p qiziqtirgan narsa Backend yo'nalishida  rivojlanish! 2024 yil Dekabrdan 2025 yil Iyulgacha ProUnity kurslarida Frontend da rivojlanishni o'rganyapman. Ayni paytda kursdagi mashg'ulotim yakunlanmadi bu kursni yakunlaganimdan so'ng Backend yunalishiga kursga topshirmoqchiman.</p>
+<p align="left">I am a beginner Frontend developer. My IT journey started in 2024 with Asia International University, where I am undergoing an intensive. After the intensive, there was a gap of several months, where I am moving in many directions, I tried to learn HTML, tried myself in CSS, but what interested me the most was Backend development! From December 2024 to July 2025, I am studying Frontend development in ProUnity courses. At the moment, my training in the course is not completed, after completing this course, I want to transfer to the Backend course.</p>
 
 ###
 
