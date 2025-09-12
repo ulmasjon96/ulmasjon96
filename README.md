@@ -223,7 +223,7 @@
 
 <!-- Epic Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FECA57&height=200&section=footer&text=🌟%20Thanks%20for%20Visiting!%20🌟&fontSize=50&fontColor=000000&animation=twinkling&fontAlignY=65&desc=Keep%20Coding,%20Keep%20Dreaming!&descSize=14&descAlignY=85" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FECA57&height=200&section=footer&text=🌟%20Thanks%20for%20Visiting!%20🌟&fontSize=60&fontColor=000000&animation=twinkling&fontAlignY=65&desc=Keep%20Coding,%20Keep%20Dreaming!&descSize=45&descAlignY=85" width="100%"/>
 </div>
 
 <p align="center">
