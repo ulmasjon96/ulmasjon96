@@ -7,7 +7,7 @@
 ###
 
 <!-- Intro Section -->
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: no-wrap;">
 
   <!-- Hi GIF -->
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="60" alt="Hi" style="border-radius: 50%;"/>
