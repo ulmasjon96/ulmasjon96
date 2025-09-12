@@ -135,7 +135,6 @@
 ---
 
 <!-- Trophy Section -->
-<!-- Trophy Section -->
 <div align="center" style="display: flex; justify-content: center; width: 100%;">
   <img src="https://github-profile-trophy.vercel.app/?username=ulmasjon96&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" width="100%">
 </div>
@@ -157,7 +156,7 @@
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ulmasjon96&theme=tokyo-night&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FECA57&area=true&hide_border=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ulmasjon96&theme=tokyo-night&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FECA57&area=true&hide_border=true" width="100%" height="400">
 </div>
 
 ---
