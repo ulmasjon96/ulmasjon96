@@ -155,9 +155,14 @@
 ---
 
 <!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ulmasjon96&theme=tokyo-night&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FECA57&area=true&hide_border=true" width="100%" height="400">
-</div>
+<!-- 📊 GitHub Activity Graph -->
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ulmasjon96&theme=tokyo-night&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FECA57&area=true&hide_border=true"
+    alt="GitHub Activity Graph"
+    style="width:100%; max-width:900px; height:400px; border-radius:10px;"
+  />
+</p>
 
 ---
 
