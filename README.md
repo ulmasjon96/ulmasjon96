@@ -44,7 +44,9 @@
 
 ###
 
-<h2 align="left">👨🏻‍💻 Men Haqimda :</h2>
+<div align="center"><h1>👨🏻‍💻 Men Haqimda</h1></div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2" width="100%"/>
 
 ###
 
