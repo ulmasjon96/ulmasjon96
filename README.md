@@ -15,7 +15,7 @@
   <!-- Typing SVG -->
 
 <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=4000&pause=2000&color=EBC891&center=true&vCenter=true&width=500&lines=Hello%2C+My+Name+Is+O'lmasjon+!;Front-end+Developer;Open+Source+Contributor;Always+Learning+New+Things"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=4000&pause=1000&color=EBC891&center=true&vCenter=true&width=500&lines=Hello%2C+My+Name+Is+O'lmasjon+!...;Front-end+Developer;Open+Source+Contributor;Always+Learning+New+Things"
     alt="Typing SVG"
     style="border: 2px solid #EBC891; border-radius: 12px; padding: 5px; box-shadow: 0 0 15px rgba(235,200,145,0.5);"
   />
