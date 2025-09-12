@@ -205,79 +205,30 @@
 
 <div align="center">
 
-<div align="center"><h2>🏆 LEGENDARY PROJECTS</h2></div>
-
+<h2>🏆 LEGENDARY PROJECTS</h2>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2" width="100%"/>
 
 </div>
 
-<div align="center"><h2>🤖 AI-Powered Telegram Bot Empire</h2></div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,mongodb&theme=dark" alt="Bot Tech Stack" />
-</div>
-
-**🌟 Epic Features:**
-
-- 🧠 **Natural Language AI** - Smart conversations that feel human
-- 💳 **Advanced Payment System** - Secure transactions with multiple gateways
-- 📊 **Real-time Analytics Dashboard** - Live insights and user behavior tracking
-- 🔐 **Military-grade Security** - End-to-end encryption and fraud detection
-- 🌍 **Multi-language Support** - Serving users globally
-
----
-
-<div align="center"><h2>🏦 Next-Gen Banking Microservice</h2></div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,postgres&theme=dark" alt="Banking Tech Stack" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=dark" alt="Banking Tech Stack" />
-</div>
-
-**⚡ Revolutionary Features:**
-
-- 🔒 **Zero-Trust Security Architecture** - JWT + OAuth2 + Multi-factor authentication
-- 📈 **Event Sourcing Pattern** - Complete transaction history and audit trails
-- 💰 **Real-time Transaction Processing** - Lightning-fast payment processing
-- 🌐 **Global Load Balancing** - 99.99% uptime with auto-scaling
-- 🤖 **AI Fraud Detection** - Machine learning powered security
-
----
-
 <div align="center">
 
-<div align="center"><h2>🎨 CONTRIBUTION MASTERPIECE</h2></div>
+<a href="https://github.com/ulmasjon96/ai-telegram-bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ulmasjon96&repo=ai-telegram-bot&theme=tokyonight&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=C9D1D9&border_color=30363D" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30&height=2" width="100%"/>
+<a href="https://github.com/ulmasjon96/banking-microservice">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ulmasjon96&repo=banking-microservice&theme=tokyonight&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=C9D1D9&border_color=30363D" />
+</a>
 
-<!-- Animated Snake -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+<a href="https://github.com/ulmasjon96/portfolio-website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ulmasjon96&repo=portfolio-website&theme=tokyonight&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=C9D1D9&border_color=30363D" />
+</a>
+
+<a href="https://github.com/ulmasjon96/devops-automation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ulmasjon96&repo=devops-automation&theme=tokyonight&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=C9D1D9&border_color=30363D" />
+</a>
 
 </div>
-
----
-
-<div align="center">
-
-<div align="center"><h2>🚀 CONNECT WITH THE LEGEND</h2></div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18&height=2" width="100%"/>
-
-<p align="center">
-  <a href="https://t.me/iam_Khasanovv" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" alt="Telegram" />
-  </a>
-  <a href="mailto:doniyork334@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/doniyor-khasanov-3b8585339" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/DoniyorKhasanov1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2000&pause=1000&color=4ECDC4&background=00000000&center=true&vCenter=true&width=600&height=60&lines=🔥+Let's+Build+Something+Epic+Together!;💫+Ready+to+Change+the+World%3F;⚡+The+Future+is+Now!" alt="Contact Typing SVG" />
