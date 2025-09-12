@@ -194,27 +194,10 @@
 
 <div align="center">
 
-<div align="center"><h2>🚀 CONNECT WITH THE LEGEND</h2></div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18&height=2" width="100%"/>
 
-<p align="center">
-  <a href="https://t.me/iam_Khasanovv" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" alt="Telegram" />
-  </a>
-  <a href="mailto:doniyork334@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/doniyor-khasanov-3b8585339" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/DoniyorKhasanov1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-</p>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2000&pause=1000&color=4ECDC4&background=00000000&center=true&vCenter=true&width=600&height=60&lines=🔥+Let's+Build+Something+Epic+Together!;💫+Ready+to+Change+the+World%3F;⚡+The+Future+is+Now!" alt="Contact Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2000&pause=1000&color=4ECDC4&background=00000000&center=true&vCenter=true&width=600&height=80&lines=🔥+Let's+Build+Something+Epic+Together!;💫+Ready+to+Change+the+World%3F;⚡+The+Future+is+Now!" alt="Contact Typing SVG" />
 </div>
 
 </div>
