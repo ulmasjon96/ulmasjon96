@@ -239,8 +239,8 @@
 </p>
 
 <p align="center">
-  🌟 **Thanks for Visiting! Keep Coding, Keep Dreaming!** 🌟
-  <sub>Made with ❤️ and a sprinkle of code magic</sub>
+  🌟 ** Made with ❤️ and a sprinkle of code magic ** 🌟
+
 </p>
 
 ---
