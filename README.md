@@ -197,7 +197,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18&height=2" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=1000&color=4ECDC4&background=00000000&center=true&vCenter=true&width=600&height=80&lines=🔥+Let's+Build+Something+Epic+Together!;💫+Ready+to+Change+the+World%3F;⚡+The+Future+is+Now!" alt="Contact Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=1000&color=4ECDC4&background=00000000&center=true&vCenter=true&width=100%&height=60&lines=🔥+Let's+Build+Something+Epic+Together!;💫+Ready+to+Change+the+World%3F;⚡+The+Future+is+Now!" alt="Contact Typing SVG" />
 </div>
 
 </div>
