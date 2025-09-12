@@ -171,7 +171,7 @@
 <!-- Activity Graph -->
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ulmasjon96&theme=tokyo-night&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FECA57&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ulmasjon96&theme=tokyo-night&bg_color=0D1117&color=4bc9f4&line=4ECDC4&point=FECA57&area=true&hide_border=true"
     alt="GitHub Activity Graph"
     style="width:100%;"
   />
@@ -269,7 +269,7 @@
 <!-- ======================== GitHub Stats ======================== -->
 <div align="center" style="margin-top: 30px; display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <img src="https://github-readme-stats.vercel.app/api?username=ulmasjon96&show_icons=true&theme=tokyonight&count_private=true" height="180" style="border-radius: 15px; box-shadow: 0 0 20px rgba(75,201,244,0.5);" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulmasjon96&layout=compact&theme=tokyonight" height="180" style="border-radius: 15px; box-shadow: 0 0 20px rgba(75,201,244,0.5);" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulmasjon96&layout=compact&theme=tokyonight" height="180" style="border-radius: 15px; box-shadow: 0 0 20px #4bc9f4;" />
 </div>
 
 ---
