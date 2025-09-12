@@ -67,7 +67,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
 </div>
 
-## 🎨 Frontend Mastery
+### 🎨 Frontend Mastery
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,vue,angular,tailwind,bootstrap&theme=dark" />
@@ -75,7 +75,7 @@
 
 ---
 
-## 🎮 Backend Powerhouse
+### 🎮 Backend Powerhouse
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,django,flask,go,dotnet&theme=dark" />
@@ -83,7 +83,7 @@
 
 ---
 
-## 🗄️ Database Mastery
+### 🗄️ Database Mastery
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,elasticsearch&theme=dark" />
@@ -91,7 +91,7 @@
 
 ---
 
-# ☁️ DevOps & Cloud Magic
+### ☁️ DevOps & Cloud Magic
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,heroku,jenkins,terraform,grafana&theme=dark" />
@@ -99,7 +99,7 @@
 
 ---
 
-## 🛠️ Tools & Productivity
+### 🛠️ Tools & Productivity
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode,postman,figma,notion&theme=dark" />
