@@ -8,7 +8,7 @@
 
 <div>
 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="50"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=5000&align=center&pause=3000&color=EBC891&width=900&lines=Hello.%20My%20Name%20Is%20O'lmasjon%20!..." alt="Typing SVG"  />
+<img  src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="50"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=5000&align=center&pause=3000&color=EBC891&width=900&lines=Hello.%20My%20Name%20Is%20O'lmasjon%20!..." alt="Typing SVG"  />
 
 </div>
 
@@ -61,7 +61,7 @@
 
 ---
 
- <div align="center"><h1>⚡ Full Stack Developer Arsenal ⚡</h1></div>
+ <div align="center"><h3>⚡ Full Stack Developer Arsenal ⚡</h3></div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
@@ -107,7 +107,7 @@
 
 ---
 
-<div align="center"><h1>📊 PERFORMANCE METRICS</h1></div>
+<div align="center"><h3>📊 PERFORMANCE METRICS</h3></div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2" width="100%"/>
 
@@ -116,10 +116,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ulmasjon96&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=C9D1D9&border_color=30363D&include_all_commits=true&count_private=true" width="400">
+        <img src="https://github-readme-stats.vercel.app/api?username=ulmasjon96&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=C9D1D9&border_color=30363D&include_all_commits=true&count_private=true" width="100%" height="200">
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulmasjon96&theme=tokyonight&background=0D1117&stroke=30363D&ring=FF6B6B&fire=4ECDC4&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=FF6B6B&sideLabels=4ECDC4&dates=96CEB4" width="400">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulmasjon96&theme=tokyonight&background=0D1117&stroke=30363D&ring=FF6B6B&fire=4ECDC4&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=FF6B6B&sideLabels=4ECDC4&dates=96CEB4" width="100%" height="200">
       </td>
     </tr>
     <tr>
