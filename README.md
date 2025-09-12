@@ -126,7 +126,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ulmasjon96&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=C9D1D9&border_color=30363D&include_all_commits=true&count_private=true" width="100%" height="200">
+        <img src="https://github-readme-stats.vercel.app/api?username=ulmasjon96&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=4bc9f4&icon_color=4ECDC4&text_color=C9D1D9&border_color=30363D&include_all_commits=true&count_private=true" width="100%" height="200">
       </td>
       </tr>
     <tr>
@@ -136,7 +136,7 @@
     </tr>
     <tr>
       <td colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulmasjon96&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&border_color=30363D&langs_count=8" width="100%" height="200">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulmasjon96&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=4bc9f4&text_color=C9D1D9&border_color=30363D&langs_count=8" width="100%" height="200">
       </td>
     </tr>
   </table>
