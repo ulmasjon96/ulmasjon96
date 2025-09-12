@@ -190,8 +190,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18&height=2" width="100%"/>
@@ -201,8 +199,6 @@
 </div>
 
 </div>
-
----
 
 <!-- Epic Footer -->
 <div align="center">
