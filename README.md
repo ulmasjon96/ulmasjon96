@@ -205,49 +205,6 @@
 
 <div align="center">
 
-<h2>🏆 LEGENDARY PROJECTS</h2>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2" width="100%"/>
-
-</div>
-
----
-
-<div align="center"><h2>🤖 AI-Powered Telegram Bot Empire</h2></div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,mongodb&theme=dark" alt="Bot Tech Stack" />
-</div>
-
-**🌟 Epic Features:**
-
-- 🧠 **Natural Language AI** — Smart conversations that feel human
-- 💳 **Advanced Payment System** — Secure transactions with multiple gateways
-- 📊 **Real-time Analytics Dashboard** — Live insights and user behavior tracking
-- 🔐 **Military-grade Security** — End-to-end encryption and fraud detection
-- 🌍 **Multi-language Support** — Serving users globally
-
----
-
-<div align="center"><h2>🏦 Next-Gen Banking Microservice</h2></div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,postgres&theme=dark" alt="Banking Tech Stack" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=dark" alt="Banking Cloud Stack" />
-</div>
-
-**⚡ Revolutionary Features:**
-
-- 🔒 **Zero-Trust Security Architecture** — JWT + OAuth2 + Multi-factor authentication
-- 📈 **Event Sourcing Pattern** — Complete transaction history and audit trails
-- 💰 **Real-time Transaction Processing** — Lightning-fast payment processing
-- 🌐 **Global Load Balancing** — 99.99% uptime with auto-scaling
-- 🤖 **AI Fraud Detection** — Machine learning powered security
-
----
-
-<div align="center">
-
 <div align="center"><h2>🎨 CONTRIBUTION MASTERPIECE</h2></div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30&height=2" width="100%"/>
