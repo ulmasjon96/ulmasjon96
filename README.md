@@ -156,11 +156,12 @@
 
 <!-- Activity Graph -->
 <!-- 📊 GitHub Activity Graph -->
+<!-- 📊 GitHub Activity Graph (Large) -->
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=ulmasjon96&theme=tokyo-night&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FECA57&area=true&hide_border=true"
     alt="GitHub Activity Graph"
-    style="width:100%; max-width:900px; height:400px; border-radius:10px;"
+    style="width:100%; max-width:1200px; height:500px; border-radius:12px;"
   />
 </p>
 
