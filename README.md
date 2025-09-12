@@ -104,7 +104,7 @@
 
 ---
 
-# ⚡ Full Stack Developer Arsenal ⚡
+ <div align="center"><h1>⚡ Full Stack Developer Arsenal ⚡</h1></div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
