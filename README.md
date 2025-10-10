@@ -340,7 +340,7 @@
 <!-- GitHub Stats & Streak -->
 
 <div align="center">
-  <table style="width:100%; max-width:900px;">
+  <table style="width:100%; min-width:1100px;">
     <tr>
       <td style="width:100%;">
         <a href="https://github.com/ulmasjon96" target="_blank" title="GitHub Stats">
