@@ -74,94 +74,151 @@
 
 ---
 <div align="center">
-  <h1>⚡ Full Stack Developer Arsenal ⚡</h1>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
+
+  <h1>💻 My Tech Stack (Tagma-tag version)</h1>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+
+  <br>
+
+  <!-- FRONTEND -->
+  <h2>🎨 Frontend Skills</h2>
+
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50px"><br>
+        <b>HTML</b><br>
+        <i>95%</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=css&theme=dark" width="50px"><br>
+        <b>CSS</b><br>
+        <i>90%</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js&theme=dark" width="50px"><br>
+        <b>JavaScript</b><br>
+        <i>88%</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react&theme=dark" width="50px"><br>
+        <b>React</b><br>
+        <i>90%</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50px"><br>
+        <b>TailwindCSS</b><br>
+        <i>85%</i>
+      </td>
+    </tr>
+  </table>
+
+  <br><hr><br>
+
+  <!-- BACKEND -->
+  <h2>🧠 Backend Skills</h2>
+
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50px"><br>
+        <b>Node.js</b><br>
+        <i>88%</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=express&theme=dark" width="50px"><br>
+        <b>Express</b><br>
+        <i>85%</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50px"><br>
+        <b>Python</b><br>
+        <i>90%</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=django&theme=dark" width="50px"><br>
+        <b>Django</b><br>
+        <i>85%</i>
+      </td>
+    </tr>
+  </table>
+
+  <br><hr><br>
+
+  <!-- DATABASE -->
+  <h2>🗄️ Database Skills</h2>
+
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50px"><br>
+        <b>MySQL</b><br>
+        <i>90%</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="50px"><br>
+        <b>MongoDB</b><br>
+        <i>88%</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="50px"><br>
+        <b>PostgreSQL</b><br>
+        <i>85%</i>
+      </td>
+    </tr>
+  </table>
+
+  <br><hr><br>
+
+  <!-- TOOLS -->
+  <h2>⚙️ Tools</h2>
+
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50px"><br>
+        <b>Git</b><br>
+        <i>90%</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50px"><br>
+        <b>GitHub</b><br>
+        <i>90%</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50px"><br>
+        <b>VS Code</b><br>
+        <i>95%</i>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=footer"/>
 </div>
-
----
-
-## 🎨 Frontend Mastery
-<div align="center">
-<table style="width:100%; max-width:800px;">
-  <tr><th>Icon</th><th>Technology</th><th>Level</th></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=html&theme=dark" width="40"/></td><td>HTML</td><td>95%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=css&theme=dark" width="40"/></td><td>CSS</td><td>90%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=scss&theme=dark" width="40"/></td><td>SCSS</td><td>85%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=js&theme=dark" width="40"/></td><td>JavaScript</td><td>88%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="40"/></td><td>TypeScript</td><td>80%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=react&theme=dark" width="40"/></td><td>React</td><td>90%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="40"/></td><td>Next.js</td><td>85%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=vue&theme=dark" width="40"/></td><td>Vue.js</td><td>75%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=angular&theme=dark" width="40"/></td><td>Angular</td><td>70%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="40"/></td><td>Tailwind</td><td>90%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="40"/></td><td>Bootstrap</td><td>85%</td></tr>
-</table>
-</div>
-
----
-
-## 🎮 Backend Powerhouse
-<div align="center">
-<table style="width:100%; max-width:800px;">
-  <tr><th>Icon</th><th>Technology</th><th>Level</th></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="40"/></td><td>Node.js</td><td>88%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=express&theme=dark" width="40"/></td><td>Express.js</td><td>85%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=java&theme=dark" width="40"/></td><td>Java</td><td>80%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="40"/></td><td>Spring Boot</td><td>75%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=python&theme=dark" width="40"/></td><td>Python</td><td>90%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=django&theme=dark" width="40"/></td><td>Django</td><td>85%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="40"/></td><td>Flask</td><td>80%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=go&theme=dark" width="40"/></td><td>Go</td><td>70%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="40"/></td><td>.NET</td><td>65%</td></tr>
-</table>
-</div>
-
----
-
-## 🗄️ Database Mastery
-<div align="center">
-<table style="width:100%; max-width:800px;">
-  <tr><th>Icon</th><th>Database</th><th>Level</th></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40"/></td><td>MySQL</td><td>90%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="40"/></td><td>PostgreSQL</td><td>85%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="40"/></td><td>MongoDB</td><td>88%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="40"/></td><td>Redis</td><td>80%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="40"/></td><td>SQLite</td><td>75%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=elasticsearch&theme=dark" width="40"/></td><td>Elasticsearch</td><td>70%</td></tr>
-</table>
-</div>
-
----
-
-## ☁️ DevOps & Cloud Magic
-<div align="center">
-<table style="width:100%; max-width:800px;">
-  <tr><th>Icon</th><th>Tool</th><th>Level</th></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40"/></td><td>Docker</td><td>85%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="40"/></td><td>Kubernetes</td><td>70%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="40"/></td><td>AWS</td><td>75%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="40"/></td><td>Google Cloud</td><td>70%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=azure&theme=dark" width="40"/></td><td>Azure</td><td>65%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="40"/></td><td>Jenkins</td><td>75%</td></tr>
-</table>
-</div>
-
----
-
-## 🛠️ Tools & Productivity
-<div align="center">
-<table style="width:100%; max-width:800px;">
-  <tr><th>Icon</th><th>Tool</th><th>Level</th></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=git&theme=dark" width="40"/></td><td>Git</td><td>90%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40"/></td><td>GitHub</td><td>90%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="40"/></td><td>Linux</td><td>80%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="40"/></td><td>VS Code</td><td>95%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="40"/></td><td>Postman</td><td>90%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40"/></td><td>Figma</td><td>85%</td></tr>
-  <tr><td><img src="https://skillicons.dev/icons?i=notion&theme=dark" width="40"/></td><td>Notion</td><td>90%</td></tr>
-</table>
-</div>
-
 
 ---
 
