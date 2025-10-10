@@ -80,80 +80,103 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
 </div>
 
-### 🎨 Frontend Mastery
+---
 
+## 🎨 Frontend Mastery
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html&theme=dark"/><br><sub>HTML — 95%</sub>
-  <img src="https://skillicons.dev/icons?i=css&theme=dark"/><br><sub>CSS — 90%</sub>
-  <img src="https://skillicons.dev/icons?i=scss&theme=dark"/><br><sub>SCSS — 85%</sub>
-  <img src="https://skillicons.dev/icons?i=js&theme=dark"/><br><sub>JavaScript — 88%</sub>
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark"/><br><sub>TypeScript — 80%</sub>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark"/><br><sub>React — 90%</sub>
-  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark"/><br><sub>Next.js — 85%</sub>
-  <img src="https://skillicons.dev/icons?i=vue&theme=dark"/><br><sub>Vue.js — 75%</sub>
-  <img src="https://skillicons.dev/icons?i=angular&theme=dark"/><br><sub>Angular — 70%</sub>
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark"/><br><sub>Tailwind CSS — 90%</sub>
-  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark"/><br><sub>Bootstrap — 85%</sub>
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,vue,angular,tailwind,bootstrap&theme=dark" alt="frontend icons"/>
 </div>
+
+<table width="100%">
+  <tr><td>HTML</td><td><progress value="95" max="100"></progress> 95%</td></tr>
+  <tr><td>CSS</td><td><progress value="90" max="100"></progress> 90%</td></tr>
+  <tr><td>SCSS</td><td><progress value="85" max="100"></progress> 85%</td></tr>
+  <tr><td>JavaScript</td><td><progress value="88" max="100"></progress> 88%</td></tr>
+  <tr><td>TypeScript</td><td><progress value="80" max="100"></progress> 80%</td></tr>
+  <tr><td>React</td><td><progress value="90" max="100"></progress> 90%</td></tr>
+  <tr><td>Next.js</td><td><progress value="85" max="100"></progress> 85%</td></tr>
+  <tr><td>Vue.js</td><td><progress value="75" max="100"></progress> 75%</td></tr>
+  <tr><td>Angular</td><td><progress value="70" max="100"></progress> 70%</td></tr>
+  <tr><td>Tailwind CSS</td><td><progress value="90" max="100"></progress> 90%</td></tr>
+  <tr><td>Bootstrap</td><td><progress value="85" max="100"></progress> 85%</td></tr>
+</table>
 
 ---
 
-### 🎮 Backend Powerhouse
-
+## 🎮 Backend Powerhouse
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark"/><br><sub>Node.js — 88%</sub>
-  <img src="https://skillicons.dev/icons?i=express&theme=dark"/><br><sub>Express.js — 85%</sub>
-  <img src="https://skillicons.dev/icons?i=java&theme=dark"/><br><sub>Java — 80%</sub>
-  <img src="https://skillicons.dev/icons?i=spring&theme=dark"/><br><sub>Spring Boot — 75%</sub>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark"/><br><sub>Python — 90%</sub>
-  <img src="https://skillicons.dev/icons?i=django&theme=dark"/><br><sub>Django — 85%</sub>
-  <img src="https://skillicons.dev/icons?i=flask&theme=dark"/><br><sub>Flask — 80%</sub>
-  <img src="https://skillicons.dev/icons?i=go&theme=dark"/><br><sub>Go — 70%</sub>
-  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark"/><br><sub>.NET — 65%</sub>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,django,flask,go,dotnet&theme=dark" alt="backend icons"/>
 </div>
+
+<table width="100%">
+  <tr><td>Node.js</td><td><progress value="88" max="100"></progress> 88%</td></tr>
+  <tr><td>Express.js</td><td><progress value="85" max="100"></progress> 85%</td></tr>
+  <tr><td>Java</td><td><progress value="80" max="100"></progress> 80%</td></tr>
+  <tr><td>Spring Boot</td><td><progress value="75" max="100"></progress> 75%</td></tr>
+  <tr><td>Python</td><td><progress value="90" max="100"></progress> 90%</td></tr>
+  <tr><td>Django</td><td><progress value="85" max="100"></progress> 85%</td></tr>
+  <tr><td>Flask</td><td><progress value="80" max="100"></progress> 80%</td></tr>
+  <tr><td>Go</td><td><progress value="70" max="100"></progress> 70%</td></tr>
+  <tr><td>.NET</td><td><progress value="65" max="100"></progress> 65%</td></tr>
+</table>
 
 ---
 
-### 🗄️ Database Mastery
-
+## 🗄️ Database Mastery
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark"/><br><sub>MySQL — 90%</sub>
-  <img src="https://skillicons.dev/icons?i=postgresql&theme=dark"/><br><sub>PostgreSQL — 85%</sub>
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark"/><br><sub>MongoDB — 88%</sub>
-  <img src="https://skillicons.dev/icons?i=redis&theme=dark"/><br><sub>Redis — 80%</sub>
-  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark"/><br><sub>SQLite — 75%</sub>
-  <img src="https://skillicons.dev/icons?i=elasticsearch&theme=dark"/><br><sub>Elasticsearch — 70%</sub>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,elasticsearch&theme=dark" alt="database icons"/>
 </div>
+
+<table width="100%">
+  <tr><td>MySQL</td><td><progress value="90" max="100"></progress> 90%</td></tr>
+  <tr><td>PostgreSQL</td><td><progress value="85" max="100"></progress> 85%</td></tr>
+  <tr><td>MongoDB</td><td><progress value="88" max="100"></progress> 88%</td></tr>
+  <tr><td>Redis</td><td><progress value="80" max="100"></progress> 80%</td></tr>
+  <tr><td>SQLite</td><td><progress value="75" max="100"></progress> 75%</td></tr>
+  <tr><td>Elasticsearch</td><td><progress value="70" max="100"></progress> 70%</td></tr>
+</table>
 
 ---
 
-### ☁️ DevOps & Cloud Magic
-
+## ☁️ DevOps & Cloud Magic
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark"/><br><sub>Docker — 85%</sub>
-  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark"/><br><sub>Kubernetes — 70%</sub>
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark"/><br><sub>AWS — 75%</sub>
-  <img src="https://skillicons.dev/icons?i=gcp&theme=dark"/><br><sub>GCP — 70%</sub>
-  <img src="https://skillicons.dev/icons?i=azure&theme=dark"/><br><sub>Azure — 65%</sub>
-  <img src="https://skillicons.dev/icons?i=heroku&theme=dark"/><br><sub>Heroku — 80%</sub>
-  <img src="https://skillicons.dev/icons?i=jenkins&theme=dark"/><br><sub>Jenkins — 75%</sub>
-  <img src="https://skillicons.dev/icons?i=terraform&theme=dark"/><br><sub>Terraform — 70%</sub>
-  <img src="https://skillicons.dev/icons?i=grafana&theme=dark"/><br><sub>Grafana — 65%</sub>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,heroku,jenkins,terraform,grafana&theme=dark" alt="devops icons"/>
 </div>
+
+<table width="100%">
+  <tr><td>Docker</td><td><progress value="85" max="100"></progress> 85%</td></tr>
+  <tr><td>Kubernetes</td><td><progress value="70" max="100"></progress> 70%</td></tr>
+  <tr><td>AWS</td><td><progress value="75" max="100"></progress> 75%</td></tr>
+  <tr><td>GCP</td><td><progress value="70" max="100"></progress> 70%</td></tr>
+  <tr><td>Azure</td><td><progress value="65" max="100"></progress> 65%</td></tr>
+  <tr><td>Heroku</td><td><progress value="80" max="100"></progress> 80%</td></tr>
+  <tr><td>Jenkins</td><td><progress value="75" max="100"></progress> 75%</td></tr>
+  <tr><td>Terraform</td><td><progress value="70" max="100"></progress> 70%</td></tr>
+  <tr><td>Grafana</td><td><progress value="65" max="100"></progress> 65%</td></tr>
+</table>
 
 ---
 
-### 🛠️ Tools & Productivity
+## 🛠️ Tools & Productivity
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode,postman,figma,notion&theme=dark" alt="tools icons"/>
+</div>
+
+<table width="100%">
+  <tr><td>Git</td><td><progress value="90" max="100"></progress> 90%</td></tr>
+  <tr><td>GitHub</td><td><progress value="90" max="100"></progress> 90%</td></tr>
+  <tr><td>GitLab</td><td><progress value="85" max="100"></progress> 85%</td></tr>
+  <tr><td>Linux</td><td><progress value="80" max="100"></progress> 80%</td></tr>
+  <tr><td>VS Code</td><td><progress value="95" max="100"></progress> 95%</td></tr>
+  <tr><td>Postman</td><td><progress value="90" max="100"></progress> 90%</td></tr>
+  <tr><td>Figma</td><td><progress value="85" max="100"></progress> 85%</td></tr>
+  <tr><td>Notion</td><td><progress value="90" max="100"></progress> 90%</td></tr>
+</table>
+
+---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git&theme=dark"/><br><sub>Git — 90%</sub>
-  <img src="https://skillicons.dev/icons?i=github&theme=dark"/><br><sub>GitHub — 90%</sub>
-  <img src="https://skillicons.dev/icons?i=gitlab&theme=dark"/><br><sub>GitLab — 85%</sub>
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark"/><br><sub>Linux — 80%</sub>
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark"/><br><sub>VS Code — 95%</sub>
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark"/><br><sub>Postman — 90%</sub>
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark"/><br><sub>Figma — 85%</sub>
-  <img src="https://skillicons.dev/icons?i=notion&theme=dark"/><br><sub>Notion — 90%</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&customColorList=12&section=footer"/>
 </div>
 
 ---
