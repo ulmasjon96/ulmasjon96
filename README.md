@@ -155,25 +155,7 @@
   <tr><td><img src="https://skillicons.dev/icons?i=notion&theme=dark"/></td><td>Notion</td><td><progress value="90" max="100"></progress> 90%</td></tr>
 </table>
 
----
 
-## 📊 GitHub Stats & Achievements
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&row=1&no-bg=true&margin-w=15"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true"/>
-</div>
 
 ---
 
