@@ -74,7 +74,87 @@
 
 ---
 
-<div align="center"><h2>⚡ Full Stack ⚡ <br> ⚡ Developer Arsenal ⚡</h2></div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/> </div> ### 🎨 Frontend Mastery <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,vue,angular,tailwind,bootstrap&theme=dark" alt="frontend icons"/> </div> --- ### 🎮 Backend Powerhouse <div align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,django,flask,go,dotnet&theme=dark" alt="backend icons"/> </div> --- ### 🗄️ Database Mastery <div align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,elasticsearch&theme=dark" alt="database icons"/> </div> --- ### ☁️ DevOps & Cloud Magic <div align="center"> <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,heroku,jenkins,terraform,grafana&theme=dark" alt="devops icons"/> </div> --- ### 🛠️ Tools & Productivity <div align="center"> <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode,postman,figma,notion&theme=dark" alt="tools icons"/> </div>
+<div align="center"><h2>⚡ Full Stack ⚡ <br> ⚡ Developer Arsenal ⚡</h2></div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
+</div>
+
+### 🎨 Frontend Mastery
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark"/><br><sub>95%</sub>
+  <img src="https://skillicons.dev/icons?i=css&theme=dark"/><br><sub>90%</sub>
+  <img src="https://skillicons.dev/icons?i=scss&theme=dark"/><br><sub>85%</sub>
+  <img src="https://skillicons.dev/icons?i=js&theme=dark"/><br><sub>88%</sub>
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark"/><br><sub>80%</sub>
+  <img src="https://skillicons.dev/icons?i=react&theme=dark"/><br><sub>90%</sub>
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark"/><br><sub>85%</sub>
+  <img src="https://skillicons.dev/icons?i=vue&theme=dark"/><br><sub>75%</sub>
+  <img src="https://skillicons.dev/icons?i=angular&theme=dark"/><br><sub>70%</sub>
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark"/><br><sub>90%</sub>
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark"/><br><sub>85%</sub>
+</div>
+
+---
+
+### 🎮 Backend Powerhouse
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark"/><br><sub>88%</sub>
+  <img src="https://skillicons.dev/icons?i=express&theme=dark"/><br><sub>85%</sub>
+  <img src="https://skillicons.dev/icons?i=java&theme=dark"/><br><sub>80%</sub>
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark"/><br><sub>75%</sub>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark"/><br><sub>90%</sub>
+  <img src="https://skillicons.dev/icons?i=django&theme=dark"/><br><sub>85%</sub>
+  <img src="https://skillicons.dev/icons?i=flask&theme=dark"/><br><sub>80%</sub>
+  <img src="https://skillicons.dev/icons?i=go&theme=dark"/><br><sub>70%</sub>
+  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark"/><br><sub>65%</sub>
+</div>
+
+---
+
+### 🗄️ Database Mastery
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark"/><br><sub>90%</sub>
+  <img src="https://skillicons.dev/icons?i=postgresql&theme=dark"/><br><sub>85%</sub>
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark"/><br><sub>88%</sub>
+  <img src="https://skillicons.dev/icons?i=redis&theme=dark"/><br><sub>80%</sub>
+  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark"/><br><sub>75%</sub>
+  <img src="https://skillicons.dev/icons?i=elasticsearch&theme=dark"/><br><sub>70%</sub>
+</div>
+
+---
+
+### ☁️ DevOps & Cloud Magic
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark"/><br><sub>85%</sub>
+  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark"/><br><sub>70%</sub>
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark"/><br><sub>75%</sub>
+  <img src="https://skillicons.dev/icons?i=gcp&theme=dark"/><br><sub>70%</sub>
+  <img src="https://skillicons.dev/icons?i=azure&theme=dark"/><br><sub>65%</sub>
+  <img src="https://skillicons.dev/icons?i=heroku&theme=dark"/><br><sub>80%</sub>
+  <img src="https://skillicons.dev/icons?i=jenkins&theme=dark"/><br><sub>75%</sub>
+  <img src="https://skillicons.dev/icons?i=terraform&theme=dark"/><br><sub>70%</sub>
+  <img src="https://skillicons.dev/icons?i=grafana&theme=dark"/><br><sub>65%</sub>
+</div>
+
+---
+
+### 🛠️ Tools & Productivity
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark"/><br><sub>90%</sub>
+  <img src="https://skillicons.dev/icons?i=github&theme=dark"/><br><sub>90%</sub>
+  <img src="https://skillicons.dev/icons?i=gitlab&theme=dark"/><br><sub>85%</sub>
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark"/><br><sub>80%</sub>
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark"/><br><sub>95%</sub>
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark"/><br><sub>90%</sub>
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark"/><br><sub>85%</sub>
+  <img src="https://skillicons.dev/icons?i=notion&theme=dark"/><br><sub>90%</sub>
+</div>
 
 ---
 
