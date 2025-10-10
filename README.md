@@ -73,7 +73,6 @@
 </div>
 
 ---
-
 <div align="center">
   <h1>⚡ Full Stack Developer Arsenal ⚡</h1>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
@@ -82,15 +81,9 @@
 ---
 
 ## 🎨 Frontend Mastery
-
 <div align="center">
-
 <table style="width:100%; max-width:800px;">
-  <tr>
-    <th align="center">Icon</th>
-    <th align="center">Technology</th>
-    <th align="center">Level</th>
-  </tr>
+  <tr><th>Icon</th><th>Technology</th><th>Level</th></tr>
   <tr><td><img src="https://skillicons.dev/icons?i=html&theme=dark" width="40"/></td><td>HTML</td><td>95%</td></tr>
   <tr><td><img src="https://skillicons.dev/icons?i=css&theme=dark" width="40"/></td><td>CSS</td><td>90%</td></tr>
   <tr><td><img src="https://skillicons.dev/icons?i=scss&theme=dark" width="40"/></td><td>SCSS</td><td>85%</td></tr>
@@ -103,13 +96,11 @@
   <tr><td><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="40"/></td><td>Tailwind</td><td>90%</td></tr>
   <tr><td><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="40"/></td><td>Bootstrap</td><td>85%</td></tr>
 </table>
-
 </div>
 
 ---
 
 ## 🎮 Backend Powerhouse
-
 <div align="center">
 <table style="width:100%; max-width:800px;">
   <tr><th>Icon</th><th>Technology</th><th>Level</th></tr>
@@ -128,7 +119,6 @@
 ---
 
 ## 🗄️ Database Mastery
-
 <div align="center">
 <table style="width:100%; max-width:800px;">
   <tr><th>Icon</th><th>Database</th><th>Level</th></tr>
@@ -144,7 +134,6 @@
 ---
 
 ## ☁️ DevOps & Cloud Magic
-
 <div align="center">
 <table style="width:100%; max-width:800px;">
   <tr><th>Icon</th><th>Tool</th><th>Level</th></tr>
@@ -160,7 +149,6 @@
 ---
 
 ## 🛠️ Tools & Productivity
-
 <div align="center">
 <table style="width:100%; max-width:800px;">
   <tr><th>Icon</th><th>Tool</th><th>Level</th></tr>
@@ -173,6 +161,7 @@
   <tr><td><img src="https://skillicons.dev/icons?i=notion&theme=dark" width="40"/></td><td>Notion</td><td>90%</td></tr>
 </table>
 </div>
+
 
 ---
 
