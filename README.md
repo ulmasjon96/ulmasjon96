@@ -333,6 +333,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&customColorList=12&section=footer"/>
+</div>
+
+---
+
 <div align="center"><h2>📊 PERFORMANCE METRICS</h2></div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2" width="100%"/>
@@ -340,7 +346,7 @@
 <!-- GitHub Stats & Streak -->
 
 <div align="center">
-  <table style="width:100%; min-width:1100px;">
+  <table style="width:100%; max-width:900px;">
     <tr>
       <td style="width:100%;">
         <a href="https://github.com/ulmasjon96" target="_blank" title="GitHub Stats">
