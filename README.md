@@ -73,6 +73,7 @@
 </div>
 
 ---
+
 <div align="center">
 
   <h1>⚡ Full Stack Developer Arsenal ⚡</h1>
@@ -85,147 +86,82 @@
 
   <table>
     <tr><td align="center">
-      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="60px"><br><b>HTML</b>
-      <div style="width:150px; background:#333; border-radius:10px; margin:5px auto;">
-        <div style="width:95%; height:10px; background:#ff4500; border-radius:10px;"></div>
-      </div><i>95%</i>
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="60px"><br><b>HTML</b><br>
+      🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜ (95%)
     </td></tr>
 
     <tr><td align="center">
-      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="60px"><br><b>CSS</b>
-      <div style="width:150px; background:#333; border-radius:10px; margin:5px auto;">
-        <div style="width:90%; height:10px; background:#00bfff; border-radius:10px;"></div>
-      </div><i>90%</i>
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="60px"><br><b>CSS</b><br>
+      🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ (90%)
     </td></tr>
 
     <tr><td align="center">
-      <img src="https://skillicons.dev/icons?i=scss&theme=dark" width="60px"><br><b>SCSS</b>
-      <div style="width:150px; background:#333; border-radius:10px; margin:5px auto;">
-        <div style="width:85%; height:10px; background:#ff69b4; border-radius:10px;"></div>
-      </div><i>85%</i>
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="60px"><br><b>JavaScript</b><br>
+      🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜ (88%)
     </td></tr>
 
     <tr><td align="center">
-      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="60px"><br><b>JavaScript</b>
-      <div style="width:150px; background:#333; border-radius:10px; margin:5px auto;">
-        <div style="width:88%; height:10px; background:#f7df1e; border-radius:10px;"></div>
-      </div><i>88%</i>
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="60px"><br><b>React</b><br>
+      🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ (90%)
     </td></tr>
 
     <tr><td align="center">
-      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="60px"><br><b>TypeScript</b>
-      <div style="width:150px; background:#333; border-radius:10px; margin:5px auto;">
-        <div style="width:80%; height:10px; background:#007acc; border-radius:10px;"></div>
-      </div><i>80%</i>
+      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="60px"><br><b>Tailwind CSS</b><br>
+      🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (90%)
     </td></tr>
 
-    <tr><td align="center">
-      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="60px"><br><b>React</b>
-      <div style="width:150px; background:#333; border-radius:10px; margin:5px auto;">
-        <div style="width:90%; height:10px; background:#61dafb; border-radius:10px;"></div>
-      </div><i>90%</i>
-    </td></tr>
-
-    <tr><td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="60px"><br><b>Next.js</b>
-      <div style="width:150px; background:#333; border-radius:10px; margin:5px auto;">
-        <div style="width:85%; height:10px; background:#888; border-radius:10px;"></div>
-      </div><i>85%</i>
-    </td></tr>
-
-    <tr><td align="center">
-      <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="60px"><br><b>Vue.js</b>
-      <div style="width:150px; background:#333; border-radius:10px; margin:5px auto;">
-        <div style="width:75%; height:10px; background:#42b883; border-radius:10px;"></div>
-      </div><i>75%</i>
-    </td></tr>
-
-    <tr><td align="center">
-      <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="60px"><br><b>Angular</b>
-      <div style="width:150px; background:#333; border-radius:10px; margin:5px auto;">
-        <div style="width:70%; height:10px; background:#dd0031; border-radius:10px;"></div>
-      </div><i>70%</i>
-    </td></tr>
-
-    <tr><td align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="60px"><br><b>Tailwind CSS</b>
-      <div style="width:150px; background:#333; border-radius:10px; margin:5px auto;">
-        <div style="width:90%; height:10px; background:#38bdf8; border-radius:10px;"></div>
-      </div><i>90%</i>
-    </td></tr>
-
-    <tr><td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="60px"><br><b>Bootstrap</b>
-      <div style="width:150px; background:#333; border-radius:10px; margin:5px auto;">
-        <div style="width:85%; height:10px; background:#7952b3; border-radius:10px;"></div>
-      </div><i>85%</i>
-    </td></tr>
   </table>
 
-  <br><hr><br>
+<br><hr><br>
 
   <!-- 🎮 BACKEND -->
   <h2>🎮 Backend Powerhouse</h2>
   <table>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="60px"><br><b>Node.js</b><div style="width:150px;background:#333;border-radius:10px;margin:5px auto;"><div style="width:88%;height:10px;background:#3c873a;border-radius:10px;"></div></div><i>88%</i></td></tr>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="60px"><br><b>Express.js</b><div style="width:150px;background:#333;border-radius:10px;margin:5px auto;"><div style="width:85%;height:10px;background:#999;border-radius:10px;"></div></div><i>85%</i></td></tr>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="60px"><br><b>Java</b><div style="width:150px;background:#333;border-radius:10px;margin:5px auto;"><div style="width:80%;height:10px;background:#f89820;border-radius:10px;"></div></div><i>80%</i></td></tr>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="60px"><br><b>Spring Boot</b><div style="width:150px;background:#333;border-radius:10px;margin:5px auto;"><div style="width:75%;height:10px;background:#6db33f;border-radius:10px;"></div></div><i>75%</i></td></tr>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="60px"><br><b>Python</b><div style="width:150px;background:#333;border-radius:10px;margin:5px auto;"><div style="width:90%;height:10px;background:#3776ab;border-radius:10px;"></div></div><i>90%</i></td></tr>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="60px"><br><b>Django</b><div style="width:150px;background:#333;border-radius:10px;margin:5px auto;"><div style="width:85%;height:10px;background:#092e20;border-radius:10px;"></div></div><i>85%</i></td></tr>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="60px"><br><b>Flask</b><div style="width:150px;background:#333;border-radius:10px;margin:5px auto;"><div style="width:80%;height:10px;background:#ffffff;border-radius:10px;"></div></div><i>80%</i></td></tr>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=go&theme=dark" width="60px"><br><b>Go</b><div style="width:150px;background:#333;border-radius:10px;margin:5px auto;"><div style="width:70%;height:10px;background:#00add8;border-radius:10px;"></div></div><i>70%</i></td></tr>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="60px"><br><b>.NET</b><div style="width:150px;background:#333;border-radius:10px;margin:5px auto;"><div style="width:65%;height:10px;background:#512bd4;border-radius:10px;"></div></div><i>65%</i></td></tr>
+    <tr><td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="60px"><br><b>Node.js</b><br>🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (88%)</td></tr>
+    <tr><td align="center"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="60px"><br><b>Express</b><br>⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ (85%)</td></tr>
+    <tr><td align="center"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="60px"><br><b>Python</b><br>💙💙💙💙💙💙💙💙💙⬜ (90%)</td></tr>
+    <tr><td align="center"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="60px"><br><b>Django</b><br>🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ (85%)</td></tr>
   </table>
 
-  <br><hr><br>
+<br><hr><br>
 
   <!-- 🗄 DATABASE -->
   <h2>🗄️ Database Mastery</h2>
   <table>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="60px"><br><b>MySQL</b><div style="width:150px;background:#333;border-radius:10px;margin:5px auto;"><div style="width:90%;height:10px;background:#00758f;border-radius:10px;"></div></div><i>90%</i></td></tr>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="60px"><br><b>PostgreSQL</b><div style="width:150px;background:#333;border-radius:10px;margin:5px auto;"><div style="width:85%;height:10px;background:#336791;border-radius:10px;"></div></div><i>85%</i></td></tr>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="60px"><br><b>MongoDB</b><div style="width:150px;background:#333;border-radius:10px;margin:5px auto;"><div style="width:88%;height:10px;background:#47a248;border-radius:10px;"></div></div><i>88%</i></td></tr>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="60px"><br><b>Redis</b><div style="width:150px;background:#333;border-radius:10px;margin:5px auto;"><div style="width:80%;height:10px;background:#d82c20;border-radius:10px;"></div></div><i>80%</i></td></tr>
+    <tr><td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="60px"><br><b>MySQL</b><br>🔵🔵🔵🔵🔵🔵🔵🔵🔵⬜ (90%)</td></tr>
+    <tr><td align="center"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="60px"><br><b>MongoDB</b><br>🟢🟢🟢🟢🟢🟢🟢🟩⬜⬜ (88%)</td></tr>
+    <tr><td align="center"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="60px"><br><b>Redis</b><br>🔴🔴🔴🔴🔴🔴🔴⬜⬜⬜ (80%)</td></tr>
   </table>
 
-  <br><hr><br>
+<br><hr><br>
 
   <!-- ☁ DEVOPS -->
   <h2>☁️ DevOps & Cloud</h2>
   <table>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="60px"><br><b>Docker</b><div style="width:150px;background:#333;border-radius:10px;margin:5px auto;"><div style="width:85%;height:10px;background:#2496ed;border-radius:10px;"></div></div><i>85%</i></td></tr>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="60px"><br><b>Kubernetes</b><div style="width:150px;background:#333;border-radius:10px;margin:5px auto;"><div style="width:70%;height:10px;background:#326ce5;border-radius:10px;"></div></div><i>70%</i></td></tr>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="60px"><br><b>AWS</b><div style="width:150px;background:#333;border-radius:10px;margin:5px auto;"><div style="width:75%;height:10px;background:#ff9900;border-radius:10px;"></div></div><i>75%</i></td></tr>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=azure&theme=dark" width="60px"><br><b>Azure</b><div style="width:150px;background:#333;border-radius:10px;margin:5px auto;"><div style="width:65%;height:10px;background:#0078d4;border-radius:10px;"></div></div><i>65%</i></td></tr>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=heroku&theme=dark" width="60px"><br><b>Heroku</b><div style="width:150px;background:#333;border-radius:10px;margin:5px auto;"><div style="width:80%;height:10px;background:#6762a6;border-radius:10px;"></div></div><i>80%</i></td></tr>
+    <tr><td align="center"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="60px"><br><b>Docker</b><br>🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ (85%)</td></tr>
+    <tr><td align="center"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="60px"><br><b>Kubernetes</b><br>🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ (70%)</td></tr>
+    <tr><td align="center"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="60px"><br><b>AWS</b><br>🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜ (75%)</td></tr>
   </table>
 
-  <br><hr><br>
+<br><hr><br>
 
   <!-- 🛠 TOOLS -->
   <h2>🛠️ Tools & Productivity</h2>
   <table>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="60px"><br><b>Git</b><div style="width:150px;background:#333;border-radius:10px;margin:5px auto;"><div style="width:90%;height:10px;background:#f05032;border-radius:10px;"></div></div><i>90%</i></td></tr>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="60px"><br><b>GitHub</b><div style="width:150px;background:#333;border-radius:10px;margin:5px auto;"><div style="width:90%;height:10px;background:#4078c0;border-radius:10px;"></div></div><i>90%</i></td></tr>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="60px"><br><b>Linux</b><div style="width:150px;background:#333;border-radius:10px;margin:5px auto;"><div style="width:80%;height:10px;background:#f5de19;border-radius:10px;"></div></div><i>80%</i></td></tr>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="60px"><br><b>VS Code</b><div style="width:150px;background:#333;border-radius:10px;margin:5px auto;"><div style="width:95%;height:10px;background:#0078d7;border-radius:10px;"></div></div><i>95%</i></td></tr>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="60px"><br><b>Figma</b><div style="width:150px;background:#333;border-radius:10px;margin:5px auto;"><div style="width:85%;height:10px;background:#a259ff;border-radius:10px;"></div></div><i>85%</i></td></tr>
-    <tr><td align="center"><img src="https://skillicons.dev/icons?i=notion&theme=dark" width="60px"><br><b>Notion</b><div style="width:150px;background:#333;border-radius:10px;margin:5px auto;"><div style="width:90%;height:10px;background:#ffffff;border-radius:10px;"></div></div><i>90%</i></td></tr>
+    <tr><td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="60px"><br><b>Git</b><br>🟠🟠🟠🟠🟠🟠🟠🟠🟠⬜ (90%)</td></tr>
+    <tr><td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="60px"><br><b>GitHub</b><br>⚪⚪⚪⚪⚪⚪⚪⚪⚪⬜ (90%)</td></tr>
+    <tr><td align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="60px"><br><b>VS Code</b><br>🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ (95%)</td></tr>
   </table>
 
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=footer"/>
-
 </div>
-
 
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&customColorList=12&section=footer"/>
 </div>
-
 
 ---
 
