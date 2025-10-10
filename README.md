@@ -87,37 +87,37 @@
 
 <table width="100%">
   <tr >
-    <td align="center" width="40%">
+    <td align="center" width="20%">
       <img src="https://skillicons.dev/icons?i=html&theme=dark" width="60"/><br><b>HTML</b><br>95%
     </td>
-    <td align="center" width="40%">
+    <td align="center" width="20%">
       <img src="https://skillicons.dev/icons?i=css&theme=dark" width="60"/><br><b>CSS</b><br>90%
     </td>
-    <td align="center" width="40%">
+    <td align="center" width="20%">
       <img src="https://skillicons.dev/icons?i=scss&theme=dark" width="60"/><br><b>SCSS</b><br>85%
     </td>
-    <td align="center" width="40%">
+    <td align="center" width="20%">
       <img src="https://skillicons.dev/icons?i=js&theme=dark" width="60"/><br><b>JavaScript</b><br>88%
     </td>
-    <td align="center" width="40%">
+    <td align="center" width="20%">
       <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="60"/><br><b>TypeScript</b><br>80%
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="40%">
+    <td align="center" width="20%">
       <img src="https://skillicons.dev/icons?i=react&theme=dark" width="60"/><br><b>React</b><br>90%
     </td>
-    <td align="center" width="40%">
+    <td align="center" width="20%">
       <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="60"/><br><b>Next.js</b><br>85%
     </td>
-    <td align="center" width="40%">
+    <td align="center" width="20%">
       <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="60"/><br><b>Vue.js</b><br>75%
     </td>
-    <td align="center" width="40%">
+    <td align="center" width="20%">
       <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="60"/><br><b>Angular</b><br>70%
     </td>
-    <td align="center" width="40%">
+    <td align="center" width="20%">
       <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="60"/><br><b>Tailwind</b><br>90%
     </td>
   </tr>
