@@ -88,37 +88,37 @@
 <table width="100%">
   <tr >
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="60"/><br><b>HTML</b><br>95%
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="60"/><br><b>HTML</b><br>90%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="60"/><br><b>CSS</b><br>90%
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="60"/><br><b>CSS</b><br>80%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=scss&theme=dark" width="60"/><br><b>SCSS</b><br>85%
+      <img src="https://skillicons.dev/icons?i=scss&theme=dark" width="60"/><br><b>SCSS</b><br>80%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="60"/><br><b>JavaScript</b><br>88%
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="60"/><br><b>JavaScript</b><br>50%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="60"/><br><b>TypeScript</b><br>80%
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="60"/><br><b>TypeScript</b><br>0%
     </td>
   </tr>
 
   <tr>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="60"/><br><b>React</b><br>90%
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="60"/><br><b>React</b><br>30%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="60"/><br><b>Next.js</b><br>85%
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="60"/><br><b>Next.js</b><br>0%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="60"/><br><b>Vue.js</b><br>75%
+      <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="60"/><br><b>Vue.js</b><br>0%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="60"/><br><b>Angular</b><br>70%
+      <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="60"/><br><b>Angular</b><br>0%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="60"/><br><b>Tailwind</b><br>90%
+      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="60"/><br><b>Tailwind</b><br>0%
     </td>
   </tr>
 </table>
@@ -133,37 +133,37 @@
 <table width="100%">
   <tr>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="60"/><br><b>Node.js</b><br>88%
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="60"/><br><b>Node.js</b><br>40%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=express&theme=dark" width="60"/><br><b>Express.js</b><br>85%
+      <img src="https://skillicons.dev/icons?i=express&theme=dark" width="60"/><br><b>Express.js</b><br>0%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="60"/><br><b>Python</b><br>90%
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="60"/><br><b>Python</b><br>0%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=django&theme=dark" width="60"/><br><b>Django</b><br>85%
+      <img src="https://skillicons.dev/icons?i=django&theme=dark" width="60"/><br><b>Django</b><br>0%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="60"/><br><b>Flask</b><br>80%
+      <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="60"/><br><b>Flask</b><br>0%
     </td>
   </tr>
 
   <tr>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=go&theme=dark" width="60"/><br><b>Go</b><br>70%
+      <img src="https://skillicons.dev/icons?i=go&theme=dark" width="60"/><br><b>Go</b><br>0%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=java&theme=dark" width="60"/><br><b>Java</b><br>80%
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" width="60"/><br><b>Java</b><br>0%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="60"/><br><b>Spring Boot</b><br>75%
+      <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="60"/><br><b>Spring Boot</b><br>0%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="60"/><br><b>.NET</b><br>65%
+      <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="60"/><br><b>.NET</b><br>0%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=php&theme=dark" width="60"/><br><b>PHP</b><br>70%
+      <img src="https://skillicons.dev/icons?i=php&theme=dark" width="60"/><br><b>PHP</b><br>0%
     </td>
   </tr>
 </table>
@@ -177,19 +177,19 @@
 <table width="100%">
   <tr>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="60"/><br><b>MySQL</b><br>90%
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="60"/><br><b>MySQL</b><br>0%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="60"/><br><b>PostgreSQL</b><br>85%
+      <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="60"/><br><b>PostgreSQL</b><br>0%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="60"/><br><b>MongoDB</b><br>88%
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="60"/><br><b>MongoDB</b><br>0%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="60"/><br><b>Redis</b><br>80%
+      <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="60"/><br><b>Redis</b><br>0%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="60"/><br><b>SQLite</b><br>75%
+      <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="60"/><br><b>SQLite</b><br>0%
     </td>
   </tr>
 </table>
@@ -203,19 +203,19 @@
 <table width="100%">
   <tr>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="60"/><br><b>Docker</b><br>85%
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="60"/><br><b>Docker</b><br>0%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="60"/><br><b>Kubernetes</b><br>70%
+      <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="60"/><br><b>Kubernetes</b><br>0%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="60"/><br><b>AWS</b><br>75%
+      <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="60"/><br><b>AWS</b><br>0%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="60"/><br><b>GCP</b><br>70%
+      <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="60"/><br><b>GCP</b><br>0%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=azure&theme=dark" width="60"/><br><b>Azure</b><br>65%
+      <img src="https://skillicons.dev/icons?i=azure&theme=dark" width="60"/><br><b>Azure</b><br>0%
     </td>
   </tr>
 </table>
@@ -229,36 +229,25 @@
 <table width="100%">
   <tr>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="60"/><br><b>Git</b><br>90%
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="60"/><br><b>Git</b><br>30%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="60"/><br><b>GitHub</b><br>90%
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="60"/><br><b>GitHub</b><br>60%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="60"/><br><b>Linux</b><br>80%
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="60"/><br><b>Linux</b><br>0%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="60"/><br><b>VS Code</b><br>95%
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="60"/><br><b>VS Code</b><br>90%
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="60"/><br><b>Postman</b><br>90%
+      <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="60"/><br><b>Postman</b><br>0%
     </td>
   </tr>
 </table>
 </div>
 
-<br>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=footer"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&customColorList=12&section=footer"/>
-</div>
-
----
+## <br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&customColorList=12&section=footer"/>
