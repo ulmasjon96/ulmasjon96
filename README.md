@@ -86,7 +86,7 @@
 <div align="center">
 <table align="center">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="100%">
       <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50"/><br><b>HTML</b><br>
        (95%)
     </td>
