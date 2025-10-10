@@ -74,48 +74,96 @@
 
 ---
 
- <div align="center"><h2>⚡ Full Stack ⚡ <br> ⚡ Developer Arsenal ⚡</h2></div>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
+  <h2>⚡ Full Stack ⚡ <br> ⚡ Developer Arsenal ⚡</h2>
 </div>
+
+---
 
 ### 🎨 Frontend Mastery
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,vue,angular,tailwind,bootstrap&theme=dark" alt="frontend icons"/>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" width="45"/> <br> <b>HTML — 95%</b>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=css" width="45"/> <br> <b>CSS — 90%</b>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js" width="45"/> <br> <b>JavaScript — 88%</b>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" width="45"/> <br> <b>React — 90%</b>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts" width="45"/> <br> <b>TypeScript — 80%</b>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45"/> <br> <b>Tailwind — 90%</b>
+</p>
 
 ---
 
 ### 🎮 Backend Powerhouse
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,django,flask,go,dotnet&theme=dark" alt="backend icons"/>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45"/> <br> <b>Node.js — 88%</b>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=express" width="45"/> <br> <b>Express — 85%</b>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" width="45"/> <br> <b>Python — 90%</b>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django" width="45"/> <br> <b>Django — 85%</b>
+</p>
 
 ---
 
 ### 🗄️ Database Mastery
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,elasticsearch&theme=dark" alt="database icons"/>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" width="45"/> <br> <b>MySQL — 90%</b>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql" width="45"/> <br> <b>PostgreSQL — 85%</b>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="45"/> <br> <b>MongoDB — 88%</b>
+</p>
 
 ---
 
 ### ☁️ DevOps & Cloud Magic
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,heroku,jenkins,terraform,grafana&theme=dark" alt="devops icons"/>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker" width="45"/> <br> <b>Docker — 85%</b>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws" width="45"/> <br> <b>AWS — 75%</b>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=heroku" width="45"/> <br> <b>Heroku — 80%</b>
+</p>
 
 ---
 
 ### 🛠️ Tools & Productivity
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" width="45"/> <br> <b>Git — 90%</b>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github" width="45"/> <br> <b>GitHub — 90%</b>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" width="45"/> <br> <b>VS Code — 95%</b>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman" width="45"/> <br> <b>Postman — 90%</b>
+</p>
+
+---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode,postman,figma,notion&theme=dark" alt="tools icons"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
+  <br>
+  <b>🔥 Continuously Learning & Building the Future 🔥</b>
 </div>
 
 ---
