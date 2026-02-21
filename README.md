@@ -264,42 +264,15 @@
 <div align="center">
   <table style="width:100%; max-width:900px;">
     <tr>
-      <td style="width:100%;">
-        <a href="https://github.com/ulmasjon96" target="_blank" title="GitHub Stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=ulmasjon96&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=4bc9f4&icon_color=4ECDC4&text_color=C9D1D9&border_color=30363D&include_all_commits=true&count_private=true" style="width:100%; height:auto;" alt="GitHub stats">
-        </a>
-      </td>
-      </tr>
-    <tr>
       <td>
         <a href="https://github.com/ulmasjon96" target="_blank" title="GitHub Streak">
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulmasjon96&theme=tokyonight&background=0D1117&stroke=30363D&ring=4bc9f4&fire=4ECDC4&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=4bc9f4&sideLabels=4ECDC4&dates=96CEB4" style="width:100%; height:auto;" alt="GitHub streak">
         </a>
       </td>
     </tr>
-    <tr>
-      <td colspan="2">
-        <a href="https://github.com/ulmasjon96" target="_blank" title="Top Languages">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulmasjon96&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=4bc9f4&text_color=C9D1D9&border_color=30363D&langs_count=8" style="width:100%; height:auto;" alt="Top languages">
-        </a>
-      </td>
-    </tr>
   </table>
 </div>
 
----
-
-<!-- Trophy Section -->
-
-<div align="center">
-  <a href="https://github.com/ulmasjon96" target="_blank" title="GitHub Trophies">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=ulmasjon96&theme=tokyonight&no-frame=true&margin-w=25&margin-h=25&row=2&column=3&title=Stars,Followers,Commits,PullRequest,Issues,Repositories"
-      alt="GitHub Trophies"
-      style="max-width: 100%; height: auto;"
-    />
-  </a>
-</div>
 
 ---
 
