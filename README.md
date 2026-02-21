@@ -88,19 +88,19 @@
 <table width="100%">
   <tr >
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="60"/><br><b>HTML</b><br>90%
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="60"/><br><b>HTML</b>
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="60"/><br><b>CSS</b><br>80%
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="60"/><br><b>CSS</b>
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=scss&theme=dark" width="60"/><br><b>SCSS</b><br>80%
+      <img src="https://skillicons.dev/icons?i=scss&theme=dark" width="60"/><br><b>SCSS</b>
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="60"/><br><b>JavaScript</b><br>50%
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="60"/><br><b>JavaScript</b>
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="60"/><br><b>TypeScript</b><br>0%
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="60"/><br><b>TypeScript</b>
     </td>
   </tr>
 
@@ -108,7 +108,7 @@
     <td align="center" width="20%">
       <img src="https://skillicons.dev/icons?i=react&theme=dark" width="60"/><br><b>React</b><br>30%
     </td>
-    <td align="center" width="20%">
+    <!-- <td align="center" width="20%">
       <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="60"/><br><b>Next.js</b><br>0%
     </td>
     <td align="center" width="20%">
@@ -116,7 +116,7 @@
     </td>
     <td align="center" width="20%">
       <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="60"/><br><b>Angular</b><br>0%
-    </td>
+    </td> -->
     <td align="center" width="20%">
       <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="60"/><br><b>Tailwind</b><br>0%
     </td>
@@ -127,7 +127,7 @@
 ---
 
 <!-- 🎮 BACKEND -->
-<h2 align="center">🎮 Backend Powerhouse</h2>
+<!-- <h2 align="center">🎮 Backend Powerhouse</h2>
 <div align="center">
 
 <table width="100%">
@@ -167,12 +167,12 @@
     </td>
   </tr>
 </table>
-</div>
+</div> -->
 
 ---
 
 <!-- 🗄 DATABASE -->
-<h2 align="center">🗄️ Database Mastery</h2>
+<!-- <h2 align="center">🗄️ Database Mastery</h2>
 <div align="center">
 <table width="100%">
   <tr>
@@ -195,10 +195,10 @@
 </table>
 </div>
 
----
+--- -->
 
 <!-- ☁ DEVOPS -->
-<h2 align="center">☁️ DevOps & Cloud</h2>
+<!-- <h2 align="center">☁️ DevOps & Cloud</h2>
 <div align="center">
 <table width="100%">
   <tr>
@@ -221,7 +221,7 @@
 </table>
 </div>
 
----
+--- -->
 
 <!-- 🛠 TOOLS -->
 <h2 align="center">🛠️ Tools & Productivity</h2>
@@ -229,20 +229,20 @@
 <table width="100%">
   <tr>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="60"/><br><b>Git</b><br>30%
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="60"/><br><b>Git</b>
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="60"/><br><b>GitHub</b><br>60%
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="60"/><br><b>GitHub</b>
     </td>
-    <td align="center" width="20%">
+    <!-- <td align="center" width="20%">
       <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="60"/><br><b>Linux</b><br>0%
-    </td>
+    </td> -->
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="60"/><br><b>VS Code</b><br>90%
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="60"/><br><b>VS Code</b>
     </td>
-    <td align="center" width="20%">
+    <!-- <td align="center" width="20%">
       <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="60"/><br><b>Postman</b><br>0%
-    </td>
+    </td> -->
   </tr>
 </table>
 </div>
