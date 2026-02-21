@@ -344,7 +344,7 @@
   <a href="https://github.com/ulmasjon96">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://github.com/ulmasjon96">
+  <a href="https://ulmasjon96.github.io/My-Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-GitHub?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio link"/>
   </a>
   <a href="https://github.com/ulmasjon96">
